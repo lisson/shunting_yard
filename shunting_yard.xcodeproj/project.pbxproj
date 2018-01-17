@@ -29,6 +29,7 @@
 /* Begin PBXFileReference section */
 		A120691C200A95A4009D3F0E /* Node.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Node.swift; sourceTree = "<group>"; };
 		A120691E200A95B8009D3F0E /* ExpressionParser.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpressionParser.swift; sourceTree = "<group>"; };
+		A184E1EC200F3A5C0008ACBE /* readme.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = readme.md; sourceTree = "<group>"; };
 		A1C97C471FEDDAB30035168C /* shunting_yard */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = shunting_yard; sourceTree = BUILT_PRODUCTS_DIR; };
 		A1C97C4A1FEDDAB30035168C /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		A1C97C521FEDDAD50035168C /* Queue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Queue.swift; path = ../../LinkedList/LinkedList/Queue.swift; sourceTree = "<group>"; };
@@ -49,6 +50,7 @@
 		A1C97C3E1FEDDAB30035168C = {
 			isa = PBXGroup;
 			children = (
+				A184E1EC200F3A5C0008ACBE /* readme.md */,
 				A1C97C491FEDDAB30035168C /* shunting_yard */,
 				A1C97C481FEDDAB30035168C /* Products */,
 			);
